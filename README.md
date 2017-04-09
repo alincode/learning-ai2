@@ -1,6 +1,9 @@
-# 介紹 AI2
+# App Inventor 2 (AI2)
 
 [MIT App Inventor 2](http://ai2.appinventor.mit.edu/)
+
+> Android應用開發者（英語：App Inventor）是起先由Google提供的應用軟體，現在由麻省理工學院維護及營運。
+它可以讓任何熟悉或不熟悉程序設計的人來創造基於Android作業系統的應用軟體。它使用圖形化界面，非常類似於Scratch語言和StarLogo TNG用戶界面。這樣用戶可以拖放圖形對象來創造一個運行在安卓系統上的應用，它就可以在許多手機設備上運行。- [資料來源 wiki](https://zh.wikipedia.org/wiki/MIT%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85)
 
 ### 作者
 
