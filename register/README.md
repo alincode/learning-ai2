@@ -155,7 +155,7 @@
 
 ### 步驟二：新增觸發事件
 
-![](assets/p1/code1.png)
+![](assets/p3/code1.png)
 
 1. 新增畫面初始化事件
 1. 設置啟動器的 Action 為 android.intent.action.VIEW
@@ -164,7 +164,7 @@
 
 ### 優化
 
-![](assets/p1/code2.png)
+![](assets/p3/code2.png)
 
 ### 成果
 
