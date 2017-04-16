@@ -1,12 +1,18 @@
 # 基礎
 
-### 元件
+### 使用者介面
+
+![](assets/user-interface.png)
 
 ### 佈局
 
 **水平佈局**
 
+![](assets/horizontal.png)
+
 **垂直佈局**
+
+![](assets/vertical.png)
 
 ### 模擬器
 
