@@ -14,9 +14,9 @@
 
 ## 註冊頁畫面製作
 
-![](assets/screen1.png)
+![](assets/p1/screen.png)
 
-![](assets/component1.png)
+![](assets/p1/component.png)
 
 ### 步驟ㄧ：基本佈局
 
@@ -26,17 +26,15 @@
 
 ### 步驟二：插入圖片
 
-### 步驟三：新增文字方塊
+### 步驟三：新增一個文字方塊和兩個密碼輸入器
 
-### 步驟四：新增一個密碼輸入器
-
-### 步驟五：新增兩個按鈕
+### 步驟四：新增兩個按鈕
 
 ## 登入頁畫面製作
 
-![](assets/screen2.png)
+![](assets/p2/screen.png)
 
-![](assets/component2.png)
+![](assets/p2/component.png)
 
 ### 步驟ㄧ：基本佈局
 
@@ -46,11 +44,9 @@
 
 ### 步驟二：插入圖片
 
-### 步驟三：新增文字方塊
+### 步驟三：新增一個文字方塊和一個密碼輸入器
 
-### 步驟四：新增兩個密碼輸入器
-
-### 步驟五：新增兩個按鈕
+### 步驟四：新增兩個按鈕
 
 * 畫面設計的原則
 * 配色的原則
@@ -59,7 +55,7 @@
 
 再次確認元件清單中的元件命名跟範例一致
 
-![](assets/component1.png)
+![](assets/p1/component.png)
 
 ### 步驟ㄧ：實作切換至登入頁
 
@@ -117,7 +113,7 @@
 
 再次確認元件清單中的元件命名跟範例一致
 
-![](assets/component2.png)
+![](assets/p2/component.png)
 
 ### 步驟ㄧ：實作切換至註冊頁
 
@@ -170,8 +166,8 @@
 
 **註冊頁**
 
-![](assets/emulator1.png)
+![](assets/p1/emulator.png)
 
 **登入頁**
 
-![](assets/emulator2.png)
+![](assets/p2/emulator.png)
