@@ -61,6 +61,11 @@ if...else if...else
 * 無回傳值程序
 * 有回傳值程序
 
+## 微資料庫
+
+![](assets/screen.png)
+
+![](assets/component.png)
 
 ### 延伸閱讀
 
