@@ -24,6 +24,9 @@
 * 16/10/22-23 JSDC.tw 2016 - 講者 淺談網站自動化測試 - 以 WebdriverIO 框架為例
 * 16/12 正修科技大學 HTML5 TQC 輔導考照
 * 2017 企業內訓課程
+  * Bootstrap
+  * API 設計
+  * Javascript 進階課程
 
 ### 授權
 
