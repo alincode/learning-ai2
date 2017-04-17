@@ -61,16 +61,6 @@ if...else if...else
 * 無回傳值程序
 * 有回傳值程序
 
-## 微資料庫
-
-![](assets/screen.png)
-
-![](assets/component.png)
-
-![](assets/save.png)
-
-![](assets/read.png)
-
 ### 延伸閱讀
 
 * [TQC - 創意App程式設計 (App Inventor)](http://www.tqcplus.org.tw/content_brochure_IAI.asp)
