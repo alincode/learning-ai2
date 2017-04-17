@@ -67,6 +67,10 @@ if...else if...else
 
 ![](assets/component.png)
 
+![](assets/save.png)
+
+![](assets/read.png)
+
 ### 延伸閱讀
 
 * [TQC - 創意App程式設計 (App Inventor)](http://www.tqcplus.org.tw/content_brochure_IAI.asp)
